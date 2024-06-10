@@ -2,6 +2,8 @@
 
 """OCR-based inventory parser for Warframe."""
 
+# Code by https://github.com/pajlada
+
 from __future__ import annotations
 
 import dataclasses

@@ -1,0 +1,6 @@
+opencv-python>=4.10.0.82
+easyocr>=1.7.1
+levenshtein>=0.25.1
+numpy>=1.26.4
+dataclass-wizard>=0.22.3
+

@@ -1,11 +1,6 @@
 #!/usr/bin/env python3
 
-"""
-OCR-based inventory parser for Warframe.
-
-Dependencies:
-  pip install opencv-python easyocr Levenshtein numpy rerun-sdk==0.16.1 dataclass-wizard
-"""
+"""OCR-based inventory parser for Warframe."""
 
 from __future__ import annotations
 
